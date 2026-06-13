@@ -1,0 +1,48 @@
+.textStuff{
+    margin: 20px;
+    color:#fff;
+    font-size: x-large;
+    font-family: "Black Ops One";
+}
+.divStuff{
+    margin: 20px;
+    border-radius: 20px; 
+    border: 2px solid white;
+    background-color: #323232;
+}
+.inputStuff{
+    margin: 20px;
+    font-family: "Black Ops One";
+    border-radius: 10px; 
+    border: 2px solid white;
+    color:#fff;
+    background-color: #323232;
+}
+.menuButton{
+    margin: 20px;
+    border-radius: 10px;
+    color:#fff;
+    font-size: x-large;
+    font-family: "Black Ops One";
+    border: 2px solid #161616;
+    background-color: #444;
+}
+.menuDiv{
+    margin: 40px;
+    border-radius: 10px;
+    color:#fff;
+    font-size: x-large;
+    font-family: "Black Ops One";
+    border: 2px solid #161616;
+    background-color: #444;
+}
+.menuButtonActive{
+    margin: 20px;
+    border-radius: 10px;
+    color:#fff;
+    font-size: x-large;
+    font-family: "Black Ops One";
+    border: 2px solid #161616;
+    background-color: #888;
+}
+.backgroundStuff{background-color: #aaa;text-align: center;}
